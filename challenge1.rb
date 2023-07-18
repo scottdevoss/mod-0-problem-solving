@@ -1,6 +1,6 @@
 # 1. Given an array of strings, print only the strings that have exactly 4 characters.
 
-#In this challenge, I want to only pring the words with exactly 4 characters in the array. 
+#In this challenge, I want to only print the words with exactly 4 characters in the array. 
 #I want to start by making an array of strings. 
 
 names = ["Scott", "Steven", "Bill", "Phil", "Dave", "Jason"]
